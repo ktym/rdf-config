@@ -1,5 +1,7 @@
 # RDF config (senbero)
 
+This project is now hosted at https://github.com/dbcls/rdf-config
+
 ![](assets/senbero-logo.png)
 
 ## TODO
